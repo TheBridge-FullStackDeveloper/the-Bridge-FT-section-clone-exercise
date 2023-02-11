@@ -96,7 +96,7 @@ a {
   background-color : #e22b22;
   border           : none;
   margin-left      : 12px;
-  height           : 25px;
+  /* height           : 25px; */
 }
 
 /* Class selector for headers color text */
@@ -116,8 +116,8 @@ a {
 }
 
 /* Pseudo element selector of square element class*/
-.square-element {
-  content          : " ";
+.square-element::after {
+  content          : "";
   display          : inline-flex;
   position         : relative;
   bottom           : 8px;
