@@ -13,30 +13,30 @@ h1 {
   padding-top: 16px;
 }
 
-h2,p {
+h2,p{
   font-family: 'Mulish', sans-serif;
-}
+} 
 
-p {
+p{
   line-height: 25px;
 }
 
 
-h2 {
+h2{
   font-size: 1, 65rem;
   line-height: 29px;
   font-weight: 700;
 }
 
-.hero-content{
+
+body {
   background-image: url(https://uploads-ssl.webflow.com/60780bff57ddc42a6adc1d7e/60dad44bbcd8cb866c91a130_Teaching%20Learning%201.jpg);
   background-position: 50% 50%;
   background-size: cover;
   min-height: 500px;
 }
 
-
-.hero-fulltime, .w-container{
+.container{
   position: relative;
   z-index: 1;
   max-width: 500px;
@@ -44,7 +44,7 @@ h2 {
   padding: 24px;
 }
 
-.wf-section,.container-7{
+.hero-content {
   position: absolute;
   left: 0;
   top: 0;
@@ -56,6 +56,7 @@ h2 {
   height: 100%;
   background-color: rgba(0, 0, 0, .61);
 }
+
 
 a{
   display: block;
@@ -90,8 +91,7 @@ a{
 h1,h2{
   color: white;
 }
-
-p {
+p{
   color: white;
 }
 
