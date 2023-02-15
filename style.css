@@ -35,7 +35,7 @@ p {
 
 
 /* Class selector for a class that should have the BG image */
-.wf-section {
+.hero-content {
   background-image    : url(https://uploads-ssl.webflow.com/60780bff57ddc42a6adc1d7e/60dad44bbcd8cb866c91a130_Teaching%20Learning%201.jpg);
   background-position : 50% 50%;
   background-size     : cover;
