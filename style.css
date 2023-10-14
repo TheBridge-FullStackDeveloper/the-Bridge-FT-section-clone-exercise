@@ -3,41 +3,48 @@ body {
   margin: 0;
 }
 
-/* Tag selector for all links and h1 elements {
-  font-family: 'Futura webfont', sans-serif;
-}*/
+/* Tag selector for all links and h1 elements {*/
+h1, a {
+    font-family: 'Futura webfont', sans-serif;
+}
 
-/* Tag selector for all h1 elements {
+
+/* Tag selector for all h1 elements */
+h1 {
   font-size: 3, 75rem;
   margin: 0;
   padding-top: 16px;
-}*/
+}
 
-/* Tag selector for all h2 elements and p {
-  font-family: 'Mulish', sans-serif;
-} */
+/* Tag selector for all h2 elements and p {*/
+  h2, p {
+    font-family: 'Mulish', sans-serif;
+} 
 
-/* Tag selector for all p elements {
+/* Tag selector for all p elements { */
+p { 
   line-height: 25px;
 }
-*/
 
-/* Tag selector for all h2 elements {
-  font-size: 1, 65rem;
+
+/* Tag selector for all h2 elements { */
+h2 { font-size: 1, 65rem;
   line-height: 29px;
   font-weight: 700;
 }
-*/
 
-/* Class selector for a class that should have the BG image {
+
+/* Class selector for a class that should have the BG image { */
+.hero-content-hero-fulltime-wf-section{ 
   background-image: url(https://uploads-ssl.webflow.com/60780bff57ddc42a6adc1d7e/60dad44bbcd8cb866c91a130_Teaching%20Learning%201.jpg);
   background-position: 50% 50%;
   background-size: cover;
   min-height: 500px;
 }
-*/
 
-/* Class selector for container {
+
+/* Class selector for container { */
+.hero-container {  
   position: relative;
   z-index: 1;
   max-width: 500px;
@@ -45,7 +52,8 @@ body {
   padding: 24px;
 }
 
-/* Class selector para el background {
+/* Class selector para el background { */
+.background-black-transparent {
   position: absolute;
   left: 0;
   top: 0;
@@ -57,9 +65,10 @@ body {
   height: 100%;
   background-color: rgba(0, 0, 0, .61);
 }
-*/
 
-/* Tag selector for all links elements {
+
+/* Tag selector for all links elements { */
+a {
   display: block;
   margin-top: 0;
   margin-left: 0;
@@ -74,37 +83,41 @@ body {
   padding-right: 15px;
   padding-bottom: 9px;
   padding-left: 15px;
-}*/
+}
 
-/* Class selector for left
-.link-left {
+/* Class selector for left */
+.link-left-link-white {
   border: 2px solid #e22b22;
   background-color: #fff;
   color: #e22b22;
 }
-*/
 
-/* Class selector for right link {
+
+/* Class selector for right link { */
+.link-right-link-white {
   background-color: #e22b22;
   border: none;
   margin-left: 12px;
-}*/
+}
 
-/* Class selector for headers color text {
+/* Class selector for headers color text { */
+.heading-headers-white-square-element, .subheading-headers-white {
   color: white;
-}*/
+}
 
-/* Class selector for paragraph color text {
+/* Class selector for paragraph color text { */
+.paragraph-heading-paragraph-paragraph-white {
   color: white;
-}*/
+}
 
 
-/* Class selector for link
-  {
+/* Class selector for link */
+.link-right-link-white {
   color: white;
-}*/
+}
 
-/* Pseudo element selector of square element class {
+/* Pseudo element selector of square element class { */
+.heading-headers-white-square-element::after { 
   content: "";
   display: inline-flex;
   position: relative;
@@ -114,4 +127,3 @@ body {
   background-color: #e22b22;
   border-radius: 5px;
 }
-*/
