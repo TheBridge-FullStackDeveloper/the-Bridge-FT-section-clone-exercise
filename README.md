@@ -8,7 +8,7 @@ Este ejercicio consiste en clonar la página web de la sección de Full Time de 
 
 El resultado sería el siguiente: 
 
-![resultado pagina web](/img/section.png)
+![resultado pagina web](/img/section.jpg)
 
 ## Instrucciones
 
