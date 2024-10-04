@@ -14,20 +14,6 @@ El resultado sería el siguiente:
 
 1. Añade los estilos correctos en el fichero `style.css`.
 
-## Puedes utilizar estas URL para las imágenes:
-
-- https://thebridge.tech/wp-content/uploads/2024/07/Logo.svg
-- https://thebridge.tech/wp-content/uploads/2024/07/poratadacover-scaled-1.jpg
-- https://thebridge.tech/wp-content/uploads/2024/10/estudiar-data-science-1.png
-- https://thebridge.tech/wp-content/uploads/2024/10/estudiar-ciberseguridad.png
-- https://thebridge.tech/wp-content/uploads/2024/10/estudiar-programacion-front-end-back.png
-- https://thebridge.tech/wp-content/uploads/2024/10/estudiar-el-mejor-marketing-digital.png
-- https://thebridge.tech/wp-content/uploads/2024/07/bootcamp-cloud.png
-- https://thebridge.tech/wp-content/uploads/2024/07/master-2.jpg
-- https://thebridge.tech/wp-content/uploads/2024/07/master-1.jpg
-- https://thebridge.tech/wp-content/uploads/2024/07/master-3.jpg
-- https://thebridge.tech/wp-content/uploads/2024/07/deco-bootcamps.png 👈 Imagen para el hover
-
 ## Bonus 🏆
 
 Añade las animaciones de hover en las cards:
